@@ -8,10 +8,10 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 // Main UI uses composition with controller
-public class GradeAppUI extends JFrame {
+public class GradeAppUi extends JFrame {
     private final GradeAppController controller;
     
-    public GradeAppUI() {
+    public GradeAppUi() {
         super("Grade Calculator Application");
         this.controller = new GradeAppController();
         initializeUI();
@@ -93,7 +93,7 @@ public class GradeAppUI extends JFrame {
         SwingUtilities.invokeLater(new Runnable() {
             @Override
             public void run() {
-                new GradeAppUI().setVisible(true);
+                new GradeAppUi().setVisible(true);
             }
         });
     }

@@ -3,6 +3,8 @@ package component;
 import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
+import java.awt.Font;
+import java.awt.Dimension;
 
 public class UIComponent {
     public static void showError(String message) {
