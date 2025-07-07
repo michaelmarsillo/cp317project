@@ -82,12 +82,7 @@ public class GradeAppUi extends JFrame {
     }
     
     public static void main(String[] args) {
-        // Set look and feel
-        try {
-            UIManager.setLookAndFeel(UIManager.getSystemLookAndFeel());
-        } catch (Exception e) {
-            // Use default look and feel
-        }
+        // Use default Swing look and feel
         
         // Start application
         SwingUtilities.invokeLater(new Runnable() {
