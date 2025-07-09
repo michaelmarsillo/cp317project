@@ -37,3 +37,10 @@ StudentID,CourseCode,Test1,Test2,Test3,FinalExam
 - Each test: 20% (3 tests = 60% total)
 - Final exam: 40%
 - Final grade = (Test1 + Test2 + Test3) × 20% + FinalExam × 40%
+
+## Team
+Built by our group for CP317 @ [Laurier](https://wlu.ca)
+- **[Michael Marsillo](https://www.linkedin.com/in/michaelmarsillo)** 
+- **[Tony Taseski](https://www.linkedin.com/in/a-taseski)**
+- **[Gurshan Sidhar](https://www.linkedin.com/in/gurshan-sidhar)**
+- **[Sahil Minhas]()** 
