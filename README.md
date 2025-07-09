@@ -13,8 +13,8 @@ A Java Swing application that calculates final grades for students based on test
 
 ## How to Run
 
-2. Run: `java ui/GradeAppUi`
-3. Use the GUI to select your input files and save location
+2. Run From: `GradeCalculatorMain.java`
+3. Use our simple terminal UI to watch the process!
 
 ## File Format
 
