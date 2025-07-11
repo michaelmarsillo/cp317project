@@ -43,4 +43,4 @@ Built by our group for CP317 @ [Laurier](https://wlu.ca)
 - **[Michael Marsillo](https://www.linkedin.com/in/michaelmarsillo)** 
 - **[Tony Taseski](https://www.linkedin.com/in/a-taseski)**
 - **[Gurshan Sidhar](https://www.linkedin.com/in/gurshan-sidhar)**
-- **[Sahil Minhas]()** 
+- **[Sahil Minhas](https://www.linkedin.com/in/sahilminhas/)** 
