@@ -3,7 +3,7 @@ package service;
 import model.*;
 import java.util.*;
 
-// Encapsulation - Service component for data processing
+// Service component for data processing
 public class DataProcessor {
     private final GradeCalculator calculator;
     

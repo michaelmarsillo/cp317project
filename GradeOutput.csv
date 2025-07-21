@@ -44,6 +44,7 @@ Student ID   | Student Name              | Course Code  | Final Grade
 454730171    | Elouise Kouma             | BU415        |     66.4%
 500461394    | Emily Hale                | MA200        |     82.0%
 500461394    | Emily Hale                | ST259        |     72.0%
+500461394    | Emily Hale                | MA200        |     82.0%
 510661066    | Ebrahim Lloyd             | BU352        |     81.8%
 510661066    | Ebrahim Lloyd             | ST260        |     82.4%
 580228531    | Lincoln Bowler            | CP372        |     66.6%
@@ -56,5 +57,5 @@ Student ID   | Student Name              | Course Code  | Final Grade
 642176077    | Teddy Hyde                | BI110        |     69.0%
 
 --------------------------------------------------------------------------------
-Total Records Processed: 50
+Total Records Processed: 51
 ================================================================================

@@ -4,7 +4,7 @@ import model.StudentGrade;
 import java.io.*;
 import java.util.*;
 
-// Inheritance - extends DataWriter
+// extends DataWriter
 public class GradeWriter extends DataWriter<StudentGrade> {
     @Override
     public void writeData(List<StudentGrade> grades, File file) throws IOException {

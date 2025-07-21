@@ -2,7 +2,7 @@ package service;
 
 import model.Course;
 
-// Encapsulation - Service component for grade calculation
+// Service component for grade calculation
 public class GradeCalculator {
     private static final double TEST_WEIGHT = 0.20; // 20% each
     private static final double FINAL_WEIGHT = 0.40; // 40%

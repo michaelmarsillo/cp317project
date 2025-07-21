@@ -4,7 +4,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.List;
 
-// Abstraction - Abstract base class for all data writers
+// Abstract base class for all data writers
 public abstract class DataWriter<T> {
     public abstract void writeData(List<T> data, File file) throws IOException;
     

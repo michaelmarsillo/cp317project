@@ -4,7 +4,7 @@ import model.Student;
 import java.io.*;
 import java.util.*;
 
-// Inheritance - extends DataReader
+// extends DataReader
 public class StudentReader extends DataReader<Student> {
     @Override
     public List<Student> readData(File file) throws IOException {

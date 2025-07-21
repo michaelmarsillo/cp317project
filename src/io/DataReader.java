@@ -5,7 +5,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.List;
 
-// Abstraction - Abstract base class for all data readers
+// Abstract base class for all data readers
 public abstract class DataReader<T> {
     public abstract List<T> readData(File file) throws IOException;
     
